@@ -7,3 +7,4 @@ The sizes have to be added together, like chunkSize = chunkSize1 + chunkSize2.
 
 The sound data then has to be combined or appended to each
 other.
+
