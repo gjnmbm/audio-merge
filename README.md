@@ -1,5 +1,6 @@
 # Merging WAV Audio Files
-Merges two WAV files together
+Merges two WAV files together.
+
 Note: The IDs in the WAV files are arbitrary, 
 so they can probably be the same as one of the audio files.
 The sizes have to be added together, like chunkSize = chunkSize1 + chunkSize2.
