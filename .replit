@@ -1,0 +1,2 @@
+language = "cpp"
+run = "g++ audioMerge.cpp -o merge"
